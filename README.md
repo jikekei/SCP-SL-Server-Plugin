@@ -11,6 +11,7 @@
 还有很多功能但其中大部分功能有着bug有，小部分有重大bug影响正常使用
 联系liseximt@outlook.com qq3037240065
 鸣谢werder888
+EXILED
 This is a plugin designed for the Mirage Galaxy server
 This is the first plugin I wrote. The plugin includes
 1scp682
