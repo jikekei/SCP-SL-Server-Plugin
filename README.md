@@ -1,4 +1,4 @@
-      # SCP-SL  SCP Secret Laboratory EXILED  
+ # SCP-SL  SCP Secret Laboratory EXILED  
       这是为幻梦银河服务器打造的插件
       这个是我写的第一个插件插件有
       1 scp682
