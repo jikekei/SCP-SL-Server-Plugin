@@ -17,25 +17,27 @@
       使用方法安装.放在exiled插件文件夹下即可Roaming\EXILED\Plugins文件夹内（理论上它与任何exiled服务器兼容兼容任何版本的exiled）
       联系liseximt@outlook.com qq3037240065
       鸣谢werder888
-# SCP-SL   SCP Secret Laboratory EXILED  
-This is a plugin designed for the Mirage Galaxy server
-This is the first plugin I wrote
-1 scp682
-2.scp999
-3.scp881
-4.scp181
-5. Chaos Tank
-6. Snake Hand Spy
-7. Electric Cannon Boy
-8. Induction card
-9. Added coin lottery. scp3035
-10. Add a fine dog
-To use the complete prompt service, you need to https://github.com/MeowServer/HintServiceMeow The plugin itself also has a prompt service, but a complete prompt service is required
-And fixed a lot of bugs
-There are still many functions, but most of them have bugs, and a small number have major bugs that affect normal use
-Instructions for installation. Simply place it in the exported plugin folder in the Roaming \ EXILED \ plugins folder (theoretically, it is compatible with any version of exported servers)
-contact liseximt@outlook.com  qq3037240065
-Thanks to werder888
+      # SCP-SL   SCP Secret Laboratory EXILED  
+      This is a plugin designed for the Mirage Galaxy server
+      This is the first plugin I wrote
+      1 scp682
+      2.scp999
+      3.scp881
+      4.scp181
+      5. Chaos Tank
+      6. Snake Hand Spy
+      7. Electric Cannon Boy
+      8 . Induction card
+      9. Added coin lottery. scp3035
+      10. Add a fine dog
+       To use the complete prompt service, you need to https://github.com/MeowServer/HintServiceMeow The plugin itself also has a prompt service, but a complete prompt service is 
+       required
+      And fixed a lot of bugs
+      There are still many functions, but most of them have bugs, and a small number have major bugs that affect normal use
+      Instructions for installation. Simply place it in the exported plugin folder in the Roaming \ EXILED \ plugins folder (theoretically, it is compatible with any version of exported 
+      servers)
+      contact liseximt@outlook.com  qq3037240065
+      Thanks to werder888
       
       There are still many functions, but most of them have bugs, and a small number have significant bugs that affect normal use
       English is not my primary language
