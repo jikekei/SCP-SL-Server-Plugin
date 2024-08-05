@@ -12,7 +12,7 @@
       9.添加了硬币抽奖.scp3035
       10.添加细狗
       11.喵喵
-      要使用完整的提示服务需要https://github.com/MeowServer/HintServiceMeow，插件本身也有提示服务但是需要完整的提示服务需要hint
+      要使用完整的提示服务需要HintServiceMeow如果需要请与我联系，因为本插件引用的是特定的版本，插件本身也有提示服务但是需要完整的提示服务需要hint
       并且修复了非常的bug
       还有很多功能但其中大部分功能有着bug有，小部分有重大bug影响正常使用
       使用方法安装.放在exiled插件文件夹下即可Roaming\EXILED\Plugins文件夹内（理论上它与任何exiled服务器兼容兼容任何版本的exiled）
