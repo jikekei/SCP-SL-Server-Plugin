@@ -1,5 +1,6 @@
  # SCP-SL  SCP Secret Laboratory EXILED  
       这是为幻梦银河服务器打造的插件，现在免费公开成为公益服务器插件，以对定制部分进行修改
+      详细的插件介绍请前往[hmyhfwq.cn](http://hmyh.xyz/index.php?case=archive&act=show&aid=570)的插件介绍页面查看
       这个是我写的第一个插件插件有
       1 scp682
       2.scp999
