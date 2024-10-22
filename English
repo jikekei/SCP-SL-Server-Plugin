@@ -1,0 +1,16 @@
+# SCP-SL   SCP Secret Laboratory EXILED  
+This is a plugin designed for the Dream Galaxy server, now available for free as a public welfare server plugin to modify the customized parts
+For detailed plugin introduction, please go to [hmyhfwq. cn]（ http://hmyh.xyz/index.php?case=archive&act=show&aid=570 ）View the plugin introduction page
+To use the complete prompt service, HintServiceMeow is required. If needed, please download it yourself https://github.com/MeowServer/HintServiceMeow/releases/tag/V4.0  ，
+Note that this plugin references the HintServiceMeow version v4.0, which may be incompatible with the new version. The plugin itself also has a prompt service, but a complete prompt service is required
+And fixed a lot of bugs
+There are still many functions, but most of them have bugs, and a small number have major bugs that affect normal use
+Instructions for installation. Simply place it in the exported plugin folder in the Roaming \ EXILED \ plugins folder (theoretically, it is compatible with any version of exported servers)
+contact liseximt@outlook.com  qq3037240065
+Thanks to werder888
+
+This plugin is open source under the GPLv3 open source license and comes with additional terms
+Additional terms
+When distributing the modified version of the plugin, you must modify the name and version number of the program in a reasonable way to indicate that it is different from the original version (According to GPLv3,7. c)
+2. You are not allowed to remove the copyright statement of this plugin (According to GPLv3,7. b)
+3. It is prohibited to use my name (Kiana Kaslana, Silver Wolf, Dargoncat) for promotional purposes (According to GPLv3,7. d)
