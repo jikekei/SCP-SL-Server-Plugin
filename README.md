@@ -13,6 +13,8 @@
 Please check the English version [English](https://github.com/jikekei/SCP-SL-Server-Plugin/blob/main/English)
  
 
+
+
 本插件在GPLv3开源许可协议下开源，并且带有附加条款
 
 附加条款
