@@ -9,7 +9,8 @@
  使用方法安装.放在exiled插件文件夹下即可Roaming\EXILED\Plugins文件夹内（理论上它与任何exiled服务器兼容兼容任何版本的exiled）
  联系liseximt@outlook.com qq3037240065
  鸣谢werder888
-
+ 
+Please check the English version [English](https://github.com/jikekei/SCP-SL-Server-Plugin/blob/main/English)
  
 
 本插件在GPLv3开源许可协议下开源，并且带有附加条款
