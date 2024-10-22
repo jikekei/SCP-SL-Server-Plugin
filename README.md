@@ -49,3 +49,11 @@
       English is not my primary language
       Thank you werder888
       contact liseximt@outlook.com Qq3037240065
+本插件在GPLv3开源许可协议下开源，并且带有附加条款
+
+附加条款
+1.当您分发该插件的修改版本时, 您必须以一种合理的方式修改该程序的名称和版本号, 以示其与原始版本不同.（依据GPLv3,7.c）
+
+2.您不得移除本插件的版权声明.（依据GPLv3,7.b）
+
+3.禁止使用本人（Kiana Kaslana， Silver Wolf， dargoncat）的名字来做宣传.（依据GPLv3,7.d）
