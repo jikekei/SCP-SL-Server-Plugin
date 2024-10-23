@@ -20,4 +20,4 @@
 
 2.您不得移除本插件的版权声明.（依据GPLv3,7.b）
 
-3.禁止使用本人（Kiana Kaslana， Silver Wolf， dargoncat）的名字来做宣传.（依据GPLv3,7.d）
+3.禁止使用本人（yiming , jikekei）的名字来做宣传.（依据GPLv3,7.d）
