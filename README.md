@@ -1,5 +1,5 @@
  # SCP-SL  SCP Secret Laboratory EXILED  
- 这是为幻梦银河服务器打造的插件，现在免费公开成为公益服务器插件，以对定制部分进行修改
+ 这是为幻梦银河服务器打造的插件，现在免费公开给各位服务器使用
  详细的插件介绍请前往[hmyhfwq.cn](http://hmyh.xyz/index.php?case=archive&act=show&aid=570)的插件介绍页面查看
  
  要使用完整的提示服务需要HintServiceMeow如果需要请自行下载https://github.com/MeowServer/HintServiceMeow/releases/tag/V3.2 ，
@@ -8,8 +8,7 @@
  使用方法安装.放在exiled插件文件夹下即可Roaming\EXILED\Plugins文件夹内（理论上它与任何exiled服务器兼容兼容任何版本的exiled）
  如果出现任何问题您可以与我联系liseximt@outlook.com qq3037240065
  鸣谢werder888
- 
-Please check the English version [English](https://github.com/jikekei/SCP-SL-Server-Plugin/blob/main/English)
+ Please check the English version [English](https://github.com/jikekei/SCP-SL-Server-Plugin/blob/main/English)
  
 
 
